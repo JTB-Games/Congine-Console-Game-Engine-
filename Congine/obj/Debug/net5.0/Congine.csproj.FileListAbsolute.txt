@@ -1,0 +1,16 @@
+C:\Users\rlebg\Desktop\Congine\bin\Debug\net5.0\Congine.exe
+C:\Users\rlebg\Desktop\Congine\bin\Debug\net5.0\Congine.deps.json
+C:\Users\rlebg\Desktop\Congine\bin\Debug\net5.0\Congine.runtimeconfig.json
+C:\Users\rlebg\Desktop\Congine\bin\Debug\net5.0\Congine.runtimeconfig.dev.json
+C:\Users\rlebg\Desktop\Congine\bin\Debug\net5.0\Congine.dll
+C:\Users\rlebg\Desktop\Congine\bin\Debug\net5.0\ref\Congine.dll
+C:\Users\rlebg\Desktop\Congine\bin\Debug\net5.0\Congine.pdb
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\Congine.csprojAssemblyReference.cache
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\Congine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\Congine.AssemblyInfoInputs.cache
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\Congine.AssemblyInfo.cs
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\Congine.csproj.CoreCompileInputs.cache
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\Congine.dll
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\ref\Congine.dll
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\Congine.pdb
+C:\Users\rlebg\Desktop\Congine\obj\Debug\net5.0\Congine.genruntimeconfig.cache
