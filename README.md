@@ -3,7 +3,7 @@ A console game Framework made using c# and .net console.
 Comes with a pre-programmed in game (flappy bird without obstacles).
 
 I think its mostly done I just want to add a falling sand cellular automata rotation and scaling and built in collision detection.
-You can use this for anything you would like.
+You can use this for anything you would like. It only works on windows i think.
 
 The framework is a bit confusing so I will do my best to explain it.
 
