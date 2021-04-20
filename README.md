@@ -15,7 +15,7 @@ screen contains functions such as .blit() and .simpleBlit() blit takes in a poly
 
 Vertex is a point used by polygons it takes a color a position and a Ascii symbol.
 
-in order to get the screen to render smoothly you must create a while(true) loop and in said loop you must put eCon.optimizeScreen() it will optimize the screen so that there will be no flickering. then you can get input and any other things. When you are ready to render the screen you must type console.clear() screen.blit / screen.simpleBlit/console.writeline. all input must be collected in a single if else statement other wise it will not get the input.
+in order to get the screen to render smoothly you must create a while(true) loop and in said loop you must put eCon.optimizeScreen() it will optimize the screen so that there will be no flickering. then you can get input and any other things. When you are ready to render the screen you must type console.clear() screen.blit / screen.simpleBlit/console.writeline. currently this only supports one button games such as FlappyBird.
 
 To get input you type Inputget.Getkey(consolekey) you can also use inputget.horizontal to get A/D key input it returns a float.
 
